@@ -23,6 +23,7 @@ int main(void)
     while (!result);
 }
 
+// TODO: Complete the function guess
 bool guess(int number)
 {
     // Get a guess from the user
