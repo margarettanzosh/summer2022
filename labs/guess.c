@@ -1,3 +1,5 @@
+// Practice using if, else-if, else statements and boolean functions
+
 #include <cs50.h>
 #include <stdio.h>
 #include <stdlib.h>
