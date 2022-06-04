@@ -1,3 +1,5 @@
+// Practice for loops and summing up values in a loop
+
 #include <cs50.h>
 #include <stdio.h>
 
